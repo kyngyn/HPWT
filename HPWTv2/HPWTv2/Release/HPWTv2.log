@@ -1,0 +1,16 @@
+﻿  main.c
+\\vmware-host\Shared Folders\데스크탑\HPWTv2\HPWTv2\main.c(714,23): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+\\vmware-host\Shared Folders\데스크탑\HPWTv2\HPWTv2\main.c(714,37): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+\\vmware-host\Shared Folders\데스크탑\HPWTv2\HPWTv2\main.c(733,23): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+\\vmware-host\Shared Folders\데스크탑\HPWTv2\HPWTv2\main.c(733,37): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+\\vmware-host\Shared Folders\데스크탑\HPWTv2\HPWTv2\main.c(739,17): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+\\vmware-host\Shared Folders\데스크탑\HPWTv2\HPWTv2\main.c(739,27): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+\\vmware-host\Shared Folders\데스크탑\HPWTv2\HPWTv2\main.c(777,18): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+\\vmware-host\Shared Folders\데스크탑\HPWTv2\HPWTv2\main.c(777,28): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+\\vmware-host\Shared Folders\데스크탑\HPWTv2\HPWTv2\main.c(825,17): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+\\vmware-host\Shared Folders\데스크탑\HPWTv2\HPWTv2\main.c(1286,35): warning C4098: 'gen_beast': 'void' 함수에서 값을 반환하고 있습니다.
+  코드를 생성하고 있습니다.
+  코드를 생성했습니다.
+  Previous IPDB not found, fall back to full compilation.
+  All 52 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  HPWTv2.vcxproj -> \\vmware-host\Shared Folders\데스크탑\HPWTv2\Release\HPWTv2.exe

@@ -1,0 +1,31 @@
+﻿  main.c
+\\vmware-host\Shared Folders\데스크탑\HPWT\HPWT\main.c(605,1): warning C4133: '초기화 중': 'char [17]'과(와) 'int *' 사이의 형식이 호환되지 않습니다.
+\\vmware-host\Shared Folders\데스크탑\HPWT\HPWT\main.c(605,1): warning C4133: '초기화 중': 'char [18]'과(와) 'int *' 사이의 형식이 호환되지 않습니다.
+\\vmware-host\Shared Folders\데스크탑\HPWT\HPWT\main.c(606,1): warning C4133: '초기화 중': 'char [7]'과(와) 'int *' 사이의 형식이 호환되지 않습니다.
+\\vmware-host\Shared Folders\데스크탑\HPWT\HPWT\main.c(606,1): warning C4133: '초기화 중': 'char [18]'과(와) 'int *' 사이의 형식이 호환되지 않습니다.
+\\vmware-host\Shared Folders\데스크탑\HPWT\HPWT\main.c(607,1): warning C4133: '초기화 중': 'char [20]'과(와) 'int *' 사이의 형식이 호환되지 않습니다.
+\\vmware-host\Shared Folders\데스크탑\HPWT\HPWT\main.c(607,1): warning C4133: '초기화 중': 'char [22]'과(와) 'int *' 사이의 형식이 호환되지 않습니다.
+\\vmware-host\Shared Folders\데스크탑\HPWT\HPWT\main.c(608,1): warning C4133: '초기화 중': 'char [18]'과(와) 'int *' 사이의 형식이 호환되지 않습니다.
+\\vmware-host\Shared Folders\데스크탑\HPWT\HPWT\main.c(608,1): warning C4133: '초기화 중': 'char [16]'과(와) 'int *' 사이의 형식이 호환되지 않습니다.
+\\vmware-host\Shared Folders\데스크탑\HPWT\HPWT\main.c(609,1): warning C4133: '초기화 중': 'char [11]'과(와) 'int *' 사이의 형식이 호환되지 않습니다.
+\\vmware-host\Shared Folders\데스크탑\HPWT\HPWT\main.c(609,1): warning C4133: '초기화 중': 'char [13]'과(와) 'int *' 사이의 형식이 호환되지 않습니다.
+\\vmware-host\Shared Folders\데스크탑\HPWT\HPWT\main.c(610,1): warning C4133: '초기화 중': 'char [16]'과(와) 'int *' 사이의 형식이 호환되지 않습니다.
+\\vmware-host\Shared Folders\데스크탑\HPWT\HPWT\main.c(610,1): warning C4133: '초기화 중': 'char [9]'과(와) 'int *' 사이의 형식이 호환되지 않습니다.
+\\vmware-host\Shared Folders\데스크탑\HPWT\HPWT\main.c(611,1): warning C4133: '초기화 중': 'char [9]'과(와) 'int *' 사이의 형식이 호환되지 않습니다.
+\\vmware-host\Shared Folders\데스크탑\HPWT\HPWT\main.c(612,1): warning C4133: '초기화 중': 'char [7]'과(와) 'int *' 사이의 형식이 호환되지 않습니다.
+\\vmware-host\Shared Folders\데스크탑\HPWT\HPWT\main.c(613,1): warning C4133: '초기화 중': 'char [9]'과(와) 'int *' 사이의 형식이 호환되지 않습니다.
+\\vmware-host\Shared Folders\데스크탑\HPWT\HPWT\main.c(613,1): warning C4133: '초기화 중': 'char [15]'과(와) 'int *' 사이의 형식이 호환되지 않습니다.
+\\vmware-host\Shared Folders\데스크탑\HPWT\HPWT\main.c(614,1): warning C4133: '초기화 중': 'char [15]'과(와) 'int *' 사이의 형식이 호환되지 않습니다.
+\\vmware-host\Shared Folders\데스크탑\HPWT\HPWT\main.c(614,1): warning C4133: '초기화 중': 'char [9]'과(와) 'int *' 사이의 형식이 호환되지 않습니다.
+\\vmware-host\Shared Folders\데스크탑\HPWT\HPWT\main.c(615,1): warning C4133: '초기화 중': 'char [11]'과(와) 'int *' 사이의 형식이 호환되지 않습니다.
+\\vmware-host\Shared Folders\데스크탑\HPWT\HPWT\main.c(615,1): warning C4133: '초기화 중': 'char [13]'과(와) 'int *' 사이의 형식이 호환되지 않습니다.
+\\vmware-host\Shared Folders\데스크탑\HPWT\HPWT\main.c(636,11): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int *'입니다.
+\\vmware-host\Shared Folders\데스크탑\HPWT\HPWT\main.c(773,15): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+\\vmware-host\Shared Folders\데스크탑\HPWT\HPWT\main.c(1232,35): warning C4098: 'genMole': 'void' 함수에서 값을 반환하고 있습니다.
+\\vmware-host\Shared Folders\데스크탑\HPWT\HPWT\main.c(1309,25): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+\\vmware-host\Shared Folders\데스크탑\HPWT\HPWT\main.c(1309,25): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+  코드를 생성하고 있습니다.
+  코드를 생성했습니다.
+  Previous IPDB not found, fall back to full compilation.
+  All 55 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  HPWT.vcxproj -> \\vmware-host\Shared Folders\데스크탑\HPWT\Release\HPWT.exe
