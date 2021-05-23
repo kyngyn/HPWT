@@ -16,11 +16,9 @@ HPWT
 + Version 1.0  (Released Dec 2018)
 + Version 1.5  (Released Feb 2019)
 <br>
-
 <h3>프로그램 기능</h3>
 
 > 배경음악 실행
-> 
 > 스토리 전개
 > 
 > 점수 합산 및 랭킹 확인
