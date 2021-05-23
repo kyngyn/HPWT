@@ -1,7 +1,6 @@
 HPWT
 =====
 >타이틀 : Harry Potter and the Wizarding Test
->
 >게임 종류 : 객관식 문제 풀기, 장애물 피하기, 물건 찾기, 맞추기 게임, 동물 잡기 게임
 >
 ![Alt text](/titlescene.png)
