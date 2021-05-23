@@ -3,6 +3,12 @@ HPWT
 >타이틀 : Harry Potter and the Wizarding Test
 >
 >게임 종류 : 객관식 문제 풀기, 장애물 피하기, 물건 찾기, 맞추기 게임, 동물 잡기 게임
+
++ 언어 : C   
++ 개발자 : 김경연, 박준영
++ Version 1.0  released Dec 2018
++ Version 1.5  released Feb 2019
+
 >
 ![Alt text](/titlescene.png)
 
@@ -13,14 +19,9 @@ HPWT
 >캐릭터별 대화를 첨가하여서 게임의 흥미를 높이게 하였다.
 
 
-+ 언어 : C   
-+ 개발자 : 김경연, 박준영
-+ Version 1.0  released Dec 2018
-+ Version 1.5  released Feb 2019
 
 <h3>프로그램 기능</h3>
 
-+ 언어 : C  
 + 배경음악 실행
 + 스토리 전개
 + 점수 합산 및 랭킹 확인
