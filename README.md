@@ -5,7 +5,7 @@ HPWT
 >각 게임마다 영화를 바탕으로 한 스토리가 진행되어<br>
 >객관식 문제 맞추기는 마법시험, 장애물 피하기는 비행시험, 물건 찾기는 마법약 시험, 맞추기 게임은 어둠의 마법 방어술 시험, 동물 잡기 게임은 신비한 동물시험으로 구성<br>
 >캐릭터별 대화를 첨가하여서 게임의 흥미를 높이게 하였다.
->
+<hr>
 ![Alt text](/titlescene.png)
 
 + 타이틀 : Harry Potter and the Wizarding Test
@@ -14,7 +14,7 @@ HPWT
 + 개발자 : 김경연, 박준영
 + Version 1.0  (Released Dec 2018)
 + Version 1.5  (Released Feb 2019)
-
+<hr>
 
 <h4>프로그램 기능</h4>
 >배경음악 실행
